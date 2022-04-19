@@ -7,9 +7,7 @@ import Posts from './components/Posts/Posts';
 import Form from './components/Form/Form';
 
 import ai from './images/ai.png';
-import memories from './images/memories.png';
 import useStyles from './styles';
-import { blue, green } from '@material-ui/core/colors';
 
 const App = () => {
     const [currentId, setCurrentId] = useState(0);
