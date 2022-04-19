@@ -1,4 +1,3 @@
-import { green } from "@material-ui/core/colors";
 import { makeStyles } from "@material-ui/core/styles";
 
 export default makeStyles((theme) => ({
@@ -9,9 +8,12 @@ export default makeStyles((theme) => ({
         flexDirection: 'row',
         justifyContent: 'center',
         alignItems: 'center',
+        backgroundColor: '#b8c6db',
+        backgroundImage: "linear-gradient(315deg, #b8c6db 0%, #f5f7fa 90%)"
       },
       heading: {
-        color: 'rgba(30, 130, 76);, 1',
+        color: 'darkgreen',
+          fontFamily:"New Times Roman"
       },
       image: {
         marginLeft: '15px',
