@@ -15,7 +15,5 @@ upload their own images and have it projected for others in the DM Lab to see.
 1. Clone this github repository onto your local machine <br>
 2. On your IDE, open two separate terminals and for each one navigate to the client and server folders. <br>
    <img width="1162" alt="Terminal Screenshot" src="https://user-images.githubusercontent.com/54247576/164936528-b75b930d-2110-4daa-a7bd-367a6711bfc0.png">
-3. Run the command 'npm start' on both terminals. <br>
-   &nbsp;&nbsp;&nbsp;&nbsp;a. In the client terminal, if an error appears stating react-scripts is not found or installed,run the command 'npm i react-scripts' and  &nbsp;&nbsp;&nbsp;&nbsp; try step 3 again <br>
-   &nbsp;&nbsp;&nbsp;&nbsp;b. In the server terminal, if an error appears stating nodemon is not found or installed,run the command 'npm i nodemon' and try step  &nbsp;&nbsp;&nbsp;&nbsp; 3 again <br>
+3. Run the command 'npm i && npm start' on both terminals. <br>
 4. On your browser localhost:3000 should open and show the webpage
