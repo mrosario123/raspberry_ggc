@@ -18,9 +18,7 @@ app.use(cors());
 app.use('/posts', postRoutes);
 
 // connecting MongoDB to server
-//const CONNECTION_URL = 'mongodb+srv://matthew_pi:pi_project@cluster0.i7itx.mongodb.net/myFirstDatabase?retryWrites=true&w=majority';
 const PORT = process.env.PORT|| 4000;
-
 mongoose.connect(process.env.CONNECTION_URL, { useNewUrlParser: true, useUnifiedTopology: true })
     // if connection is successful
     .then(() => app.listen(PORT, () => console.log(`Server running on port: http://localhost:${PORT}`)))
