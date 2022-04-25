@@ -27,5 +27,3 @@ mongoose.connect(process.env.CONNECTION_URL, { useNewUrlParser: true, useUnified
     // if connection is not successful
     .catch((error) => console.log(error.message));
 
-// makes sure we don't get any warnings in the console
-// mongoose.set('useFindAndModify', false);
