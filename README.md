@@ -18,3 +18,8 @@ upload their own images and have it projected for others in the DM Lab to see.
    <img width="1162" alt="Terminal Screenshot" src="https://user-images.githubusercontent.com/54247576/164936528-b75b930d-2110-4daa-a7bd-367a6711bfc0.png">
 3. Run the command **'npm i && npm start'** on both terminals. <br>
 4. On your browser **localhost:3000** should open and display the webpage
+
+## Running the PI code
+1. In order to run the PI code, you must have pygame installed. [Installation](https://www.pygame.org/wiki/GettingStarted) <br>
+2. It is a command line application. To run it, type the following command, specifying the directory where the images are located. <br>
+```python project.py [directory]```
