@@ -1,2 +1,0 @@
-PORT = 4000
-CONNECTION_URL = 'mongodb+srv://matthew_pi:pi_project@cluster0.i7itx.mongodb.net/myFirstDatabase?retryWrites=true&w=majority'
