@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="seleniumhq.selenium.remote.driver" type="repository">
+    <properties maven-id="org.seleniumhq.selenium:selenium-remote-driver:2.8.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/selenium-remote-driver-2.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/cglib-nodep-2.1_3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/json-20080701.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/selenium-api-2.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/guava-r09.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpclient-4.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpcore-4.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-codec-1.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

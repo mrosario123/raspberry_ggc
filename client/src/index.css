@@ -1,7 +1,9 @@
 body {
+    /*Changes the format of the background*/
     background: url('./images/buildingB.jpeg') no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    background-color: blanchedalmond;
 }

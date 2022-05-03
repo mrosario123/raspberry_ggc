@@ -8,7 +8,7 @@ export default makeStyles((theme) => ({
         flexDirection: 'row',
         justifyContent: 'center',
         alignItems: 'center',
-        backgroundColor: '#b8c6db',
+        backgroundColor: '#f0a278',
         backgroundImage: "linear-gradient(315deg, #b8c6db 0%, #f5f7fa 90%)"
       },
       heading: {
